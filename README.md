@@ -1,3 +1,11 @@
 # JAVA
-Software para Entidades Financieras
-Programacion Orientada a Objetos, trabajo realizado en varias clases y metodos  modularizados que se invocan entre si para resolver las necesidades del menu  principal que se despliega al ejecutar  la INTERFAZ.
+Software para Entidades Financieras con
+Programacion Orientada a Objetos. 
+Trabajo realizado en varias clases y
+métodos modularizados que se invocan
+entre sí para resolver las necesidades
+del menú principal que se despliega al
+ejecutar la Interfaz gráfica.
+
+
+Atte. Germán.
